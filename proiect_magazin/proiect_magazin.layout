@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="main.cpp" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="12019" topLine="68" />
+		</Cursor>
+		<Folding>
+			<Collapse line="24" />
+			<Collapse line="30" />
+			<Collapse line="34" />
+			<Collapse line="54" />
+			<Collapse line="61" />
+			<Collapse line="67" />
+			<Collapse line="73" />
+			<Collapse line="80" />
+			<Collapse line="86" />
+			<Collapse line="94" />
+			<Collapse line="100" />
+			<Collapse line="133" />
+			<Collapse line="157" />
+			<Collapse line="182" />
+			<Collapse line="209" />
+			<Collapse line="231" />
+			<Collapse line="255" />
+		</Folding>
+	</File>
+	<File name="lista_cumparaturi" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="42" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

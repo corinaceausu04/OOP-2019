@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1574872298 source:c:\users\corina ceausu\desktop\proiect_magazin\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+

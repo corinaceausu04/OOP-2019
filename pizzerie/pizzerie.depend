@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1578481876 source:c:\users\corina ceausu\desktop\pizzerie\main.cpp
+	<iostream>
+	<string>
+	<map>
+	<vector>
+	<unordered_map>
+	<unordered_set>
+	<utility>
+	<set>
+

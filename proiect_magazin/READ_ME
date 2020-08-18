@@ -1,0 +1,6 @@
+ Exista un anumit stoc din mai multe tipuri de bunuri (unele masurate la bucata
+altele la greutate, altele la volum). Fiecare produs are un pret pe unitatea de masura si un
+cost. Clientul soseste cu o lista de cumparaturi cu bunuri. Magazionerul ii comunica clientului
+pretul total iar acesta decide daca cumpara sau nu. Daca cumpara se realizeaza, se produce
+schimbul bunuri contra bani. La finalul zilei se realizeaza inchiderea zilei, afisand totaluri de
+bunuri vandute si banii obtinuti.
